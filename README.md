@@ -8,7 +8,7 @@ NOTE: Kanaku is currently only designed for mobile users.
 
 Rent-A-Car is better suited for desktop viewing. Both apps still in development.
 
-Please contact me on my <a href="https://www.linkedin.com/in/huseyn-hajiyev-akif/">LinkedIn</a>
+Please contact me on my <a href="https://www.linkedin.com/in/huseyn-hajiyev-akif/">LinkedIn</a> for more information
 
 CodeWars:
 
