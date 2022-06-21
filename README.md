@@ -1,4 +1,4 @@
-Welcome!
+Welcome!\n
 I'm Huseyn. I am 27 years old, currently living in Istanbul. I studied Business Mangagement BSc, IT Management for Business MSc, and, recently, graduated a bootcamp focused on Ruby on Rails.
 
 My recent project is Kanaku, you will find it .
