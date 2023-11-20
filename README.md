@@ -4,9 +4,7 @@ I'm Huseyn. I am 29 years old, currently living in Istanbul. I studied Business 
 
 My recent project is Kanaku, you can find it here <a href="http://www.kanaku.me/">Kanaku</a>.
 
-NOTE: Kanaku is currently only designed for mobile users. 
-
-Rent-A-Car is better suited for desktop viewing. Both apps are still being polished.
+NOTE: Kanaku is currently only designed for mobile users.
 
 Please contact me on my <a href="https://www.linkedin.com/in/huseyn-hajiyev-akif/">LinkedIn</a> for more information
 
