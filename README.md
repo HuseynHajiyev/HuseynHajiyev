@@ -1,5 +1,5 @@
-Welcome! 🔊
-👋 My name is Huseyn Hajiyev
+Welcome! 🔊__
+ My name is Huseyn Hajiyev👋
 ===============================
 Software Engineer and Agile IT Project Manager
 ----------------------------------------------
