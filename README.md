@@ -4,7 +4,7 @@ My name is Huseyn. I am 29 years old, currently living in Baku, Azerbaijan. I st
 
 My recent project is Participle, you can find it here <a href="https://participle-plus.vercel.app/">Participle➕</a>.
 
-Please use my 👉👉👉 <a href="https://huseynhajiyev.com/">Website</a> 👈👈👈for more information
+Please use my 👉👉👉 <a href="https://huseynhajiyev.com/">Website</a> 👈👈👈 for more information
 
 ## My Tech Stack
 
