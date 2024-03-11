@@ -2,9 +2,23 @@ Welcome!
 
 I'm Huseyn. I am 29 years old, currently living in Istanbul. I studied Business Mangagement BSc, IT Management for Business MSc, and, recently, graduated a bootcamp focused on Ruby on Rails. Decided to change my career to software development and engineering after I became weary of Business Management. After my masters, I continued my coding and took on courses that would help me as a developer.
 
-My recent project is Participle, you can find it here <a href="[https://participle-plus.vercel.app/]">Participle</a>.
+My recent project is Participle, you can find it here <a href="https://participle-plus.vercel.app/">Participle</a>.
 
 Please use my <a href="https://huseynhajiyev.vercel.app/">Website</a> for more information
+
+## My Tech Stack
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=redux-saga&logoColor=white) <!-- Check if this icon exists in simple-icons -->
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 CodeWars:
 
