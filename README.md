@@ -24,6 +24,8 @@ Please use my <a href="https://huseynhajiyev.vercel.app/">Website</a> for more i
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core%207-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+
 
 
 CodeWars:
