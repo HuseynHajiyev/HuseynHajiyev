@@ -2,7 +2,7 @@ Welcome! 🔊
 👋 My name is Huseyn Hajiyev
 ===============================
 
-My name is Huseyn. I am 29 years old, currently living in Baku, Azerbaijan. I studied Business Mangagement BSc, IT Management for Business MSc, and, recently, graduated a bootcamp focused on Ruby on Rails. Decided to change my career to software development and engineering after I became weary of Business Management. After my masters, I continued my coding and took on courses that would help me as a developer and am now a full-time software engineer 👨‍💻.
+I am 29 years old, currently living in Baku, Azerbaijan. I studied Business Mangagement BSc, IT Management for Business MSc, and, recently, graduated a bootcamp focused on Ruby on Rails. Decided to change my career to software development and engineering after I became weary of Business Management. After my masters, I continued my coding and took on courses that would help me as a developer and am now a full-time software engineer 👨‍💻.
 
 My recent project is Participle, you can find it here <a href="https://participle-plus.vercel.app/">Participle➕</a>.
 
