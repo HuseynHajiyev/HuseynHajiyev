@@ -1,6 +1,6 @@
-Welcome!
+## Welcome! 🔊
 
-I'm Huseyn. I am 29 years old, currently living in Istanbul. I studied Business Mangagement BSc, IT Management for Business MSc, and, recently, graduated a bootcamp focused on Ruby on Rails. Decided to change my career to software development and engineering after I became weary of Business Management. After my masters, I continued my coding and took on courses that would help me as a developer and am now a full-time software engineer.
+My name is Huseyn. I am 29 years old, currently living in Baku, Azerbaijan. I studied Business Mangagement BSc, IT Management for Business MSc, and, recently, graduated a bootcamp focused on Ruby on Rails. Decided to change my career to software development and engineering after I became weary of Business Management. After my masters, I continued my coding and took on courses that would help me as a developer and am now a full-time software engineer.
 
 My recent project is Participle, you can find it here <a href="https://participle-plus.vercel.app/">Participle</a>.
 
@@ -17,8 +17,14 @@ Please use my <a href="https://huseynhajiyev.vercel.app/">Website</a> for more i
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=redux-saga&logoColor=white) <!-- Check if this icon exists in simple-icons -->
+![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=redux-saga&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core%207-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+
 
 CodeWars:
 
