@@ -1,6 +1,11 @@
 Welcome! 🔊
 👋 My name is Huseyn Hajiyev
 ===============================
+Software Engineer and Agile IT Project Manager
+----------------------------------------------
+* 🌍  I'm based in Azerbaijan
+* ✉️  You can contact me at [hhajiyev@hotmail.com](mailto:hhajiyev@hotmail.com)
+
 
 I am 29 years old, currently living in Baku, Azerbaijan. I studied Business Mangagement BSc, IT Management for Business MSc, and, recently, graduated a bootcamp focused on Ruby on Rails. Decided to change my career to software development and engineering after I became weary of Business Management. After my masters, I continued my coding and took on courses that would help me as a developer and am now a full-time software engineer 👨‍💻.
 
