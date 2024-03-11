@@ -1,4 +1,4 @@
-## Welcome! 🔊
+Welcome! 🔊
 👋 My name is Huseyn Hajiyev
 ===============================
 
